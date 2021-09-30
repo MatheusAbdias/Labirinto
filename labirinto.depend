@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1615568189 source:c:\users\matheus\desktop\projetos\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
+1626975651 c:\users\matheus\desktop\projetos\labirinto\labirinto.h
+	<cmath>
+	<fstream>
+	<vector>
+
+1626976107 source:c:\users\matheus\desktop\projetos\labirinto\labirinto.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<cmath>
+	<list>
+	<algorithm>
+	"labirinto.h"
+
